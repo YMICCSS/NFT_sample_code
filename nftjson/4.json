@@ -1,0 +1,35 @@
+{
+  "name": "Eric Fan",
+  "description": "獨一無二 價值不斐",
+  "image": "https://gateway.pinata.cloud/ipfs/QmZcNTk93KYQwzf6vHkpMv9z2kKcH8CCrmYLpornuUdjb8/4.png",
+  "external_url": "https://gateway.pinata.cloud/ipfs/QmZcNTk93KYQwzf6vHkpMv9z2kKcH8CCrmYLpornuUdjb8/4.png",
+  "background_color": "341f47",
+  "attributes": [
+    {
+      "trait_type": "Level", 
+      "value": 1
+    },
+    {
+      "trait_type": "Eyes", 
+      "value": "normal"
+    },
+    {
+      "trait_type": "Ability", 
+      "value": "One"
+    }
+  ],
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Eric Fan"
+    },
+    "description": {
+        "type": "string",
+        "description": "獨一無二 價值不斐"
+    },
+    "image": {
+        "type": "string",
+        "description": "https://gateway.pinata.cloud/ipfs/QmZcNTk93KYQwzf6vHkpMv9z2kKcH8CCrmYLpornuUdjb8/4.png"
+    }
+  }
+}
